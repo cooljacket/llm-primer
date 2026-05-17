@@ -8,6 +8,7 @@ wheels/
 
 **/.ipynb_checkpoints/
 uv.lock
+*.DS_Store
 
 # Virtual environments
 .venv
